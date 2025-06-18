@@ -5,8 +5,11 @@
 本项目由“草本智行队”完成，聚焦中医药老字号品牌的活化与转型路径，以北京同仁堂为核心研究对象，探讨传统品牌在现代市场环境中的革新策略。我们决定将本项目整理并发布于 GitHub，以作纪念和参考。我在项目中主要负责前期的数据爬取与调研，以及后期的建模分析。本仓库中主要收录的是我参与部分的爬虫代码与数据建模代码，供有需要的朋友参考。
 
 我负责的流程大致为：
-![image](https://github.com/user-attachments/assets/b8f080db-09d9-4ed3-bc6b-c1eecb82689f)
+
+![image](https://github.com/user-attachments/assets/3524e06a-c64d-4397-b0a0-e80e77e4ae40)
+
 
 整体流程为：
+
 ![image](https://github.com/user-attachments/assets/a5140697-fe84-4bf7-bce7-2adf83f9bf38)
 
